@@ -1,0 +1,32 @@
+.signup-parent{
+    border: 2px solid black;
+    margin:auto;
+    margin-top: 10px;
+    width:30%;
+}
+
+.div{
+    border:2px solid red
+}
+
+.signup{
+    margin-left:20%;
+    width:100%;
+}
+
+.input{
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+.button{
+    background-color:blue;
+    margin:auto;
+    border-radius:5px;
+    text-align:center;
+    margin-top:5px;
+    margin-bottom:5px;
+    cursor: pointer;
+}
